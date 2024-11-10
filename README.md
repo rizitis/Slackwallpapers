@@ -2,3 +2,7 @@ Just playing using [rembg](https://github.com/danielgatis/rembg) and Gimp in the
 output are some Slackware wallpapers... 
 
 ![](./Screenshot.png)
+
+---
+
+![](./gimp-3.0.0-RC.png)
