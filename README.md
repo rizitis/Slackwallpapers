@@ -9,4 +9,4 @@ output are some Slackware wallpapers...
 
 ### Update
 `2024-08-12`
-Added from Nassa-Calledar 2025 [modified wallpapers](./Nassa_Slackware_Wallpapers-2025) <br>
+Added from Nassa-Callendar 2025 [modified wallpapers](./Nassa_Slackware_Wallpapers-2025) <br>
