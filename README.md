@@ -6,3 +6,7 @@ output are some Slackware wallpapers...
 ---
 
 ![](./gimp-3.0.0-RC.png)
+
+### Update
+`2024-08-12`
+Added from Nassa-Calledar 2025 [modified wallpapers](./Nassa_Slackware_Wallpapers-2025) <br>
